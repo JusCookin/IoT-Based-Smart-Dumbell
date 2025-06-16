@@ -1,3 +1,5 @@
+# IoT-Based-Smart Dumbell
+
 🏋️‍♂️ Smart-Dumbbell-With-Repetition-and-Health-Monitoring
 An intelligent IoT-based smart dumbbell that automatically counts exercise repetitions and sets using motion sensors, while simultaneously monitoring heart rate and SpO₂ levels. Powered by ESP32, this compact fitness tool provides real-time feedback via OLED display and is designed to enhance personal training, physiotherapy, and workout tracking.
 
