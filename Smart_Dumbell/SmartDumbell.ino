@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3KNYaO6av"
-#define BLYNK_TEMPLATE_NAME "Smart Dumbell"
-#define BLYNK_AUTH_TOKEN "ozHX5uf59-w5WqU3tLFosbi05Jwa1QsO"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 #define BLYNK_PRINT Serial
 
@@ -12,8 +12,8 @@
 #include <Adafruit_SSD1306.h>
 #include "MAX30100_PulseOximeter.h"  // Added for oximeter
 
-char ssid[] = "Agash";      
-char pass[] = "password";
+char ssid[] = "";      
+char pass[] = "";
 
 MPU6050 mpu;
 // OLED display setup (typically 128x64 pixels)
